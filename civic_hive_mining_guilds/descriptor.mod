@@ -5,6 +5,6 @@ tags={
 	"Species"
 }
 picture="thumbnail.png"
-supported_version="3.4.*"
+supported_version="3.8.*"
 path="mod/civic_hive_mining_guilds"
 remote_file_id="2778830924"

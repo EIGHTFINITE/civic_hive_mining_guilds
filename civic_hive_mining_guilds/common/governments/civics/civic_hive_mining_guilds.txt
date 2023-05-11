@@ -1,7 +1,11 @@
 civic_hive_mining_guilds = {
 	potential = { authority = { value = auth_hive_mind } }
-	random_weight = { base = 5 }
+	random_weight = { base = @civic_default_random_weight }
+	ai_weight = { 
+		base = @ai_civic_default_base_weight 
+	}
 	modifier = {
+		councilor_gestalt_scientist_exp_gain = @gestalt_civic_node_xp_rate
 		planet_miners_minerals_produces_add = 1
 	}
 }
