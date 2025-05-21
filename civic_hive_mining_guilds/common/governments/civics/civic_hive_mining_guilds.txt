@@ -5,7 +5,7 @@ civic_hive_mining_guilds = {
 		base = @ai_civic_default_base_weight
 	}
 	modifier = {
-		councilor_gestalt_cognitive_exp_gain = @gestalt_civic_node_xp_rate
+		councilor_gestalt_growth_exp_gain = @gestalt_civic_node_xp_rate
 		planet_miners_minerals_produces_add = 1
 	}
 }
